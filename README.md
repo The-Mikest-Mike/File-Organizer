@@ -1,6 +1,6 @@
 # Simply Organize 'Downloads' Folder
 
-Let’s be honest: we’ve all been there! You download a file, think you'll remember where you put it, and suddenly your Downloads folder looks like a digital junkyard 😄 This app is here to rescue you from the chaos and restore order to your digital life!
+We’ve all been there! You download a file, think you'll remember where you put it, and suddenly your Downloads folder looks like a digital junkyard 😄 This app is here to rescue you from the chaos and restore order to your digital life!
 
 It helps users efficiently manage their Downloads folder by automatically sorting files into subfolders based on their types. This simple tool makes it easier to find what you need, saving you time and effort!
 
