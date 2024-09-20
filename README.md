@@ -27,7 +27,9 @@ git clone <repo-url>
 ### Step 3: Run the Application
 1. Double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
 <img src="double_click_app.png" alt="Double Click" height="200" width="450" />
+
 2. You will receive a MAC notification when the organization is complete.
+
 3. Sample result
 <img src="organized_results_sample.png" alt="Double Click" height="200" width="450" />
 
