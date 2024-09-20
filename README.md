@@ -25,29 +25,16 @@ git clone <repo-url>
 1. Ensure that both `Organize Downloads.app` and `organize_downloads.sh` are in the same directory (e.g., a folder on your Desktop).
 
 ### Step 3: Run the Application
-1. Double-click on the `Organize Downloads.app`.
+1. Double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
+<img src="double_click_app.png" alt="Double Click" height="200" width="450" />
+2. You will receive a MAC notification when the organization is complete.
+3. Sample result
+<img src="organized_results_sample" alt="Double Click" height="200" width="450" />
 
-    <img src="https://static.vecteezy.com/system/resources/previews/026/703/517/original/illustration-of-double-click-on-the-mouse-icon-in-dark-color-and-white-background-vector.jpg" alt="Double Click" height="100" width="100" />
-
-    <img src="https://www.intego.com/mac-security-blog/wp-content/uploads/2017/09/Mac-Automator-Resize-Images.png" alt="Double Click" height="100" width="150" />
-
-
-    ![Alt text](double_click_app.png)
-
-
-
-
-    
-    
-3. The application will run and organize your Downloads folder automatically.
-4. You will receive a MAC notification when the organization is complete.
-
-### Important Notes
+### ⚠️ Important Notes 
 - Ensure that you have write permissions for the Downloads folder, as the application will need to move files.
-- ⚠️ The application does not delete any files; it simply organizes them into folders based on their types.
-- For best results, run this application regularly to keep your Downloads folder organized.
-
-
+- The application does not delete any files; it simply organizes them into folders based on their types.
+- Existing Folders are not reorganized, just the files outside a folder.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
