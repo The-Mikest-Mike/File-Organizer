@@ -7,10 +7,11 @@ Helps users efficiently manage their Downloads folder by automatically organizin
 
 
 ## Features
-- Automatically organizes files in the Downloads folder by type.
-- Creates a separate folder for each file extension.
-- Notifies the user when the organization is complete.
-- Easy to use—just double-click to run! 
+✨ Easy to use—just double-click to run!<br> 
+✨ Automatically organizes files in the Downloads folder by type.<br>
+✨ Creates a separate folder for each file extension.<br>
+✨ Notifies the user when the organization is complete.<br>
+
 
 
 ## How to Use
