@@ -10,7 +10,8 @@ Helps users efficiently manage their Downloads folder by automatically organizin
 - Automatically organizes files in the Downloads folder by type.
 - Creates a separate folder for each file extension.
 - Notifies the user when the organization is complete.
-- Easy to use—just double-click to run!
+- Easy to use—just double-click to run! 
+
 
 ## How to Use
 
@@ -27,8 +28,17 @@ cd <repo-directory>
 
 ### Step 3: Run the Application
 1. Double-click on the `Organize Downloads.app`.
-2. The application will run and organize your Downloads folder automatically.
-3. You will receive a MAC notification when the organization is complete.
+
+    <img src="https://static.vecteezy.com/system/resources/previews/026/703/517/original/illustration-of-double-click-on-the-mouse-icon-in-dark-color-and-white-background-vector.jpg" alt="Double Click" height="100" width="100" />
+
+    <img src="https://www.intego.com/mac-security-blog/wp-content/uploads/2017/09/Mac-Automator-Resize-Images.png" alt="Double Click" height="100" width="150" />
+
+
+
+    
+    
+3. The application will run and organize your Downloads folder automatically.
+4. You will receive a MAC notification when the organization is complete.
 
 ### Important Notes
 - Ensure that you have write permissions for the Downloads folder, as the application will need to move files.
