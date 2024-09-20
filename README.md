@@ -32,6 +32,10 @@ git clone <repo-url>
     <img src="https://www.intego.com/mac-security-blog/wp-content/uploads/2017/09/Mac-Automator-Resize-Images.png" alt="Double Click" height="100" width="150" />
 
 
+    ![Alt text](double_click_app.png)
+
+
+
 
     
     
