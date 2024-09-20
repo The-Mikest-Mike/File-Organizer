@@ -32,7 +32,7 @@ git clone <repo-url>
 2. You will receive a MAC notification when the organization is complete.
 
 3. Sample result
-<img src="organized_results_sample.png" alt="Double Click" height="200" width="450" />
+<img src="organized_results_sample.png" alt="Double Click" height="300" width="550" />
 
 ### ⚠️ Important Notes 
 - Ensure that you have write permissions for the Downloads folder, as the application will need to move files.
