@@ -18,8 +18,8 @@ Helps users efficiently manage their Downloads folder by automatically organizin
 ### Step 1: Download the Application
 1. Clone or download this repository to your computer.
 ```bash
-git clone <repo-url>
 cd <repo-directory>
+git clone <repo-url>
 ```
 2. Locate the `Organize Downloads.app` and the `organize_downloads.sh` script in the downloaded folder.
 
