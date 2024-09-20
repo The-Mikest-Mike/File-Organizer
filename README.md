@@ -21,8 +21,6 @@ Helps users efficiently manage their Downloads folder by automatically organizin
 cd <repo-directory>
 git clone <repo-url>
 ```
-2. Locate the `Organize Downloads.app` and the `organize_downloads.sh` script in the downloaded folder.
-
 ### Step 2: Place the Files
 1. Ensure that both `Organize Downloads.app` and `organize_downloads.sh` are in the same directory (e.g., a folder on your Desktop).
 
