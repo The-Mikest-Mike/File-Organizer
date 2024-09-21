@@ -26,13 +26,13 @@ git clone <repo-url>
 <img src="double_click_app.png" alt="Double Click" height="200" width="450" />
 
 2. Allow access to the Downloads folder
-<img src="allow_access_sample.png" alt="allow access message" height="200" width="250" />
+<img src="allow_access_sample.png" alt="allow access message" height="220" width="250" />
 
 3. You will receive a notification at the top right corner of the scren when the organization task is complete.
 <img src="notification_message_sample.png" alt="result message" height="100" width="400" />
 
 4. Sample result
-<img src="organized_results_sample.png" alt="Double Click" height="300" width="550" />
+<img src="organized_results_sample.png" alt="Double Click" height="300" width="580" />
 
 ### ⚠️ Important Notes 
 - Ensure that you have write permissions for the Downloads folder, as the application will need to move files.
