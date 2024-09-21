@@ -6,7 +6,7 @@ It helps users efficiently manage their Downloads folder by automatically sortin
 
 
 ## Features
-✨ Easy to use—just double-click to run!<br> 
+✨ Easy to use, just double-click to run!<br> 
 ✨ Automatically organizes files in the Downloads folder by type.<br>
 ✨ Creates a separate folder for each file extension.<br>
 ✨ Notifies the user when the organization is complete.<br>
