@@ -23,16 +23,16 @@ cd <repo-directory>
 git clone <repo-url>
 ```
 ### Step 2: Run the Application
-1. Unzip the `Organize Downloads.zip` and Double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
+1. Unzip the `Organize Downloads.zip` file and double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
 <img src="double_click_app.png" alt="double click" height="150" width="100" />
 
-2. Allow access to the Downloads folder
+3. Allow access to the Downloads folder
 <img src="allow_access_sample.png" alt="allow access message" height="220" width="250" />
 
-3. Once the organization is completed, You will receive a notification at the top right corner of the screen
+4. Once the organization is completed, You will receive a notification at the top right corner of the screen
 <img src="notification_message_sample.png" alt="result message" height="100" width="400" />
 
-4. Sample result
+5. Sample result
 <img src="organized_results_sample.png" alt="organized results" height="300" width="580" />
 
 ### ⚠️ Important Notes 
