@@ -29,8 +29,9 @@ git clone <repo-url>
 <img src="double_click_app.png" alt="Double Click" height="200" width="450" />
 
 2. You will receive a MAC notification when the organization is complete.
+<img src="result_message_sample.png" alt="pop-up result message" height="300" width="550" />
 
-3. Sample result
+4. Sample result
 <img src="organized_results_sample.png" alt="Double Click" height="300" width="550" />
 
 ### ⚠️ Important Notes 
