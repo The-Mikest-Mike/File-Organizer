@@ -16,7 +16,7 @@ It helps users efficiently manage their Downloads folder by automatically sortin
 ## How to Use
 
 ### Step 1: Download the Application
-1. Clone or download this repository to your computer.
+1. Clone this repository or directly download only the `Organize Downloads.zip`  to your computer.
 ```bash
 cd <repo-directory>
 git clone <repo-url>
