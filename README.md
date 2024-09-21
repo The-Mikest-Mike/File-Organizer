@@ -23,7 +23,7 @@ git clone <repo-url>
 ```
 ### Step 2: Run the Application
 1. Double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
-<img src="" alt="Double Click" height="200" width="450" />
+<img src="double_click_app" alt="Double Click" height="200" width="450" />
 
 2. Allow access to the Downloads folder
 <img src="allow_access_sample.png" alt="allow access message" height="220" width="250" />
