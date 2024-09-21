@@ -26,10 +26,10 @@ git clone <repo-url>
 <img src="double_click_app.png" alt="Double Click" height="200" width="450" />
 
 2. Allow access to the Downloads folder
-<img src="result_message_sample.png" alt="pop-up result message" height="150" width="400" />
+<img src="allow_access_sample.png" alt="allow access message" height="200" width="250" />
 
 3. You will receive a MAC notification when the organization is complete.
-<img src="result_message_sample.png" alt="pop-up result message" height="150" width="400" />
+<img src="result_message_sample.png" alt="result message" height="150" width="400" />
 
 4. Sample result
 <img src="organized_results_sample.png" alt="Double Click" height="300" width="550" />
