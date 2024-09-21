@@ -38,7 +38,7 @@ git clone <repo-url>
 ### ⚠️ Important Notes 
 - Ensure that you have write permissions for the Downloads folder, as the application will need to move files.
 - The application does not delete any files; it simply organizes them into folders based on their types.
-- Existing Folders are not reorganized, just the files outside a folder.
+- Existing Folders are not being reorganized, just the files outside a folder.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
