@@ -28,8 +28,8 @@ git clone <repo-url>
 2. Allow access to the Downloads folder
 <img src="allow_access_sample.png" alt="allow access message" height="200" width="250" />
 
-3. You will receive a MAC notification when the organization is complete.
-<img src="result_message_sample.png" alt="result message" height="150" width="400" />
+3. You will receive a notification at the top right corner of the scren when the organization task is complete.
+<img src="notification_message_sample.png" alt="result message" height="150" width="400" />
 
 4. Sample result
 <img src="organized_results_sample.png" alt="Double Click" height="300" width="550" />
