@@ -21,14 +21,14 @@ It helps users efficiently manage their Downloads folder by automatically sortin
 cd <repo-directory>
 git clone <repo-url>
 ```
-### Step 2: Place the Files
-1. Ensure that both `Organize Downloads.app` and `organize_downloads.sh` are in the same directory (e.g., a folder on your Desktop).
-
-### Step 3: Run the Application
+### Step 2: Run the Application
 1. Double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
 <img src="double_click_app.png" alt="Double Click" height="200" width="450" />
 
-2. You will receive a MAC notification when the organization is complete.
+2. Allow access to the Downloads folder
+<img src="result_message_sample.png" alt="pop-up result message" height="150" width="400" />
+
+3. You will receive a MAC notification when the organization is complete.
 <img src="result_message_sample.png" alt="pop-up result message" height="150" width="400" />
 
 4. Sample result
