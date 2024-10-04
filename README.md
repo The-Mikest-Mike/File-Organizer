@@ -1,4 +1,4 @@
-# Simply Organize 'Downloads' Folder
+# Simply Organize '_Downloads_' Folder
 
 We’ve all been there! You download a file, think you'll remember where you put it, but suddenly your Downloads folder looks like a digital junkyard 😄
 This app is here to rescue you from the chaos and restore order to your digital life!
