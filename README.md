@@ -18,12 +18,12 @@ It helps users efficiently manage their Downloads folder by automatically sortin
 
 ### Step 1: Download the Application
 1. Move to the desired directory, Clone this repository or directly download the `Organize Downloads.zip`  to your computer.
-```bash
-cd <repo-directory>
-```
-```bash
-git clone https://github.com/The-Mikest-Mike/File_Organizer.git
-```
+    ```bash
+    cd <repo-directory>
+    ```
+    ```bash
+    git clone https://github.com/The-Mikest-Mike/File_Organizer.git
+    ```
 ### Step 2: Run the Application
 1. Unzip the `Organize Downloads.zip` file and double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
 <img src="double_click_app.png" alt="double click" height="150" width="100" />
