@@ -22,7 +22,7 @@ It helps users efficiently manage their Downloads folder by automatically sortin
 cd <repo-directory>
 ```
 ```bash
-git clone <repo-url>
+git clone https://github.com/The-Mikest-Mike/File_Organizer.git
 ```
 ### Step 2: Run the Application
 1. Unzip the `Organize Downloads.zip` file and double-click on the `Organize Downloads.app`. The application will run and organize your Downloads folder automatically.
