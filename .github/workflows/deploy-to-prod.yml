@@ -39,11 +39,3 @@ jobs:
         env:
           TMM_PAT: ${{ secrets.TMM_PAT }}
 
-      - name: Tag the successful release
-        if: success()
-        run: |
-          TAG_NAME=$(echo $GITHUB_REF | sed 's/refs\/heads\/release\///')
-          git remote set-url origin https://x-access-token:${{ secrets.DEV_PAT }}@github.com/TheMikestMike/File-Organizer.git
-          git tag v$TAG_NAME
-          git push origin v$TAG_NAME
-
