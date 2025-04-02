@@ -4,7 +4,7 @@ We’ve all been there! You download a file, think you'll remember where you put
 This app is here to rescue you from the chaos and restore order to your digital life!
 
 It helps users efficiently manage their Downloads folder by automatically sorting files into subfolders based on their types. This simple tool makes it easier to find what you need, saving you time and effort! 
-
+---
 
 ## Features
 ✨ Easy to use, just double-click to run!<br> 
