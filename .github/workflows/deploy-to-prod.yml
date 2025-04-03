@@ -27,7 +27,6 @@ jobs:
         run: |
           git config --global user.email "eng.miguelaz+tmmsoftware@gmail.com"
           git config --global user.name "The Mikest Mike"
-
       - name: Push to TMMSoftware/File-Organizer
         run: |
           git clone https://github.com/TMMSoftware/File-Organizer.git prod_repo
