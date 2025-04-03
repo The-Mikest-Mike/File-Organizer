@@ -43,7 +43,7 @@ jobs:
         if: success()
         run: |
           TAG_NAME=$(echo $GITHUB_REF | sed 's/refs\/heads\/release\///')
-          git remote set-url origin https://x-access-token:${{ secrets.DEV_PAT }}@github.com/TheMikestMike/File-Organizer.git
+          git remote set-url origin https://x-access-token:${{ secrets.DEV_PAT }}@github.com/The-Mikest-Mike/File-Organizer.git
           git tag v$TAG_NAME
           git push origin v$TAG_NAME
 
